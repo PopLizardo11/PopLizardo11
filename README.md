@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently learning web development again (changing how I approach things this time) and some python (which I found to be extremely easy). Hope I learn all of it, this time :)
+I am currently learning web development again (changing how I approach things this time) and some python (which I found to be easier than JS). Hope I learn all of it, this time :)

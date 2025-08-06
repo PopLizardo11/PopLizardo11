@@ -1,4 +1,4 @@
-## Hello again!
+# Hello again, I am Hernan Lizardo (aka PopLizardo11)!
 
 <!--
 **PopLizardo11/PopLizardo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently learning web development again (changing how I approach things this time) and some python (which I found to be easier than JS). Hope I learn all of it, this time :)
+### Here are the things I already learned in my programming journey
+- HTML
+- CSS
+- Javascript
+- Python
+
+I'm currently learning data analysis python and some SQL, also have plans learning React so that I can finally complete learning a front-end framework. 
+

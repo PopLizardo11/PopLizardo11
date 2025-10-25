@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - CSS
 - Javascript
 - Python
+- Basic SQL
 
 I'm currently learning data analysis python and some SQL, also have plans learning React so that I can finally complete learning a front-end framework. 
 

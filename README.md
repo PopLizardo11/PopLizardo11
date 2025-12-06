@@ -1,26 +1,24 @@
-# Hello again, I am Hernan Lizardo (aka PopLizardo11)!
+# 👋 Hello there!
 
-<!--
-**PopLizardo11/PopLizardo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 I'm Hernan Lizardo, an industrial engineering student from Philippines.
 
-Here are some ideas to get you started:
+⌨️ I design and build websites, apps and sometimes games initially as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ As an industrial engineering student, I learned to realize the use of programming on my field.
 
-### Here are the things I already learned in my programming journey
-- HTML
-- CSS
-- Javascript
-- Python
-- Basic SQL
+🌟 It helps me build interface for systems, gain better understanding of algoritms and explore promising 
+technologies that can prove useful for my field. 
 
-I'm currently learning data analysis python and some SQL, also have plans learning React so that I can finally complete learning a front-end framework. 
+## My Tech Stack: 
+
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/svelte-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/npm.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/ubuntu.svg" width="50"></a>
 

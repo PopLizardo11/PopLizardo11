@@ -6,8 +6,11 @@
 
 ⚙️ As an industrial engineering student, I learned to realize the use of programming on my field.
 
-🌟 It helps me build interface for systems, gain better understanding of algoritms and explore promising 
-technologies that can prove useful for my field. 
+🌟 It helps me build interface for systems, gain better understanding of algorithms and explore promising 
+technologies that can prove useful for the IE field. 
+
+🌄 I aspire to bridge the gap between Industrial engineering and Computer science as I believe that 
+both fields complement each other and fulfill each others shortcomings. 
 
 ## My Tech Stack: 
 
